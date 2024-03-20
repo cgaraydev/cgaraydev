@@ -5,11 +5,6 @@ Graduate in Civil Electronic Engineering with over 6 years of experience in Tech
 -  I speak **spanish** and **english**
 -  Let's talk!: **cgaraydev@gmail.com**
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-garay-vásquez) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/506462983069630484) 
-
 # 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -23,6 +18,9 @@ Graduate in Civil Electronic Engineering with over 6 years of experience in Tech
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## 🌐 Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-garay-vásquez) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/506462983069630484) 
 
 
 # 📊 GitHub Stats:
