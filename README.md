@@ -56,3 +56,4 @@ Ingeniero de software con una combinación única de conocimientos en desarrollo
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cgaraydev&icon=1&color=8)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=cgaraydev)
