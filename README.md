@@ -1,10 +1,4 @@
-# 💫 About Me:
-Software engineer with a special combination of software development and electronic engineering knowledge. I have worked in the private sector for more than 6 years, which has given me the opportunity to hone my leadership, project management, and problem-solving abilities. I currently use these abilities in backend and Android development. I have successfully led teams and managed requirements while delivering technical solutions. I am proficient in Java, Kotlin, Spring Framework, and SQL. I can't wait to contribute to creative projects and take on new challenges in the IT sector with my broad skill set.
 
-Ingeniero de software con una combinación única de conocimientos en desarrollo de software e ingeniería electrónica. He trabajado en el sector privado durante más de 6 años, lo que me ha permitido perfeccionar mis habilidades de liderazgo, gestión de proyectos y resolución de problemas. Actualmente aplico estas habilidades en el desarrollo de backend y Android. He liderado equipos y gestionado requisitos con éxito, entregando soluciones técnicas de alta calidad. Soy competente en Java, Kotlin, Spring Framework y SQL. Estoy emocionado por contribuir a proyectos innovadores y asumir nuevos desafíos en el sector de TI con mi amplia gama de habilidades.
-
--  I speak **spanish** and **english**
--  Let's talk!: **cgaraydev@gmail.com**
 
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
